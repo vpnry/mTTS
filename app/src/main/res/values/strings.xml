@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mTTS</string>
+    <string name="copying_database">Copying database, please keep this screen…</string>
+</resources>
